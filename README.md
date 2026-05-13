@@ -2,7 +2,7 @@
 
 # Jirachart Kongwaja
 
-## Software Developer · Full-Stack Developer
+## Software Engineer · Full-Stack Developer
 
 Building software skills with a focus on web and mobile apps using React, Flutter, and TypeScript.
 
